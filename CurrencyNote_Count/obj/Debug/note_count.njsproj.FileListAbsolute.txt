@@ -1,0 +1,3 @@
+C:\Users\Hammad\Desktop\Visual studio practice\note_count\obj\Debug\note_count.njsproj.AssemblyReference.cache
+C:\Users\Hammad\Desktop\Visual studio practice\note_count\obj\Debug\note_count.njsproj.CoreCompileInputs.cache
+C:\Users\Hammad\Desktop\Visual studio practice\note_count\bin\Microsoft.NodejsTools.WebRole.dll
